@@ -8,6 +8,6 @@ results can be found in this directory:
 - [open_ai_embedding_similarity.ipynb](open_ai_embedding_similarity.ipynb)
   is used to generate the t-SNE visualization of the concept and
   individual label embeddings (Figure 1; Page 12 of 
-  [Tables and Figures](../tables_and_figures.pdf))
+  [Tables and Figures](../tables_and_figures.pdf)).
 - The Correct Retrieval vs. depth and dispersion correlation study
-  can be found in [structure_mAP_correlation.ipynb](structure_mAP_correlation.ipynb)
+  can be found in [structure_mAP_correlation.ipynb](structure_mAP_correlation.ipynb).
