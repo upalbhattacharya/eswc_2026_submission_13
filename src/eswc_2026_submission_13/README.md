@@ -6,4 +6,5 @@
   can be found in the [model](model/) directory.
 - Scripts for calculating structural metrics and metrics from
   predictions can be found in the [results](results/) directory.
-- Mapping metrics to different tasks is handled in the `task_map` directory.
+- Mapping metrics to different tasks is handled in the
+  [task_map](task_map/) directory.
