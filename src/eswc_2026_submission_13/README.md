@@ -1,5 +1,7 @@
 # Code 
 
+- Converting OWL/RDF files into `polars.DataFrame` datasets is 
+  done using scripts in the `process_data` directory.
 - The implementations of querying OpenAI and open models using `HuggingFace`
   can be found in the `model` directory.
 - Scripts for calculating structural metrics and metrics from
