@@ -4,6 +4,9 @@ The various parameters used for experimenting with different
 LLMs, domain contexts, n-shot prompting approaches and
 temperature settings can be found in `json` files here. The 
 provided directory structure below explains how the data is categorized.
+Each `uuid-x.json` corresponds to a domain context variant. The same 
+UUID can be found in the [results](../results) directory for the
+corresponding results.
 
 ```
 .
@@ -15,7 +18,7 @@ provided directory structure below explains how the data is categorized.
     ├── 0_shot
     │   └── LLM Name
     │       └── Ontology Name
-    │           ├── uuid-1.json
+    │           ├── uuid-1.json : Parameters for one domain context
     │           ├── uuid-2.json
     │           ├── uuid-3.json
     │           └── uuid-4.json
