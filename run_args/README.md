@@ -22,7 +22,7 @@ corresponding results.
 │   │   │   │   ├── uuid-2.json
 │   │   │   │   ├── uuid-3.json
 │   │   │   │   └── uuid-4.json
-│   │   │          
+│   │   │   │      
 │   │   ├── 3_shot
 │   │   │   ├── LLM Name
 │   │   │   │   ├── Ontology Name
