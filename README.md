@@ -1,6 +1,6 @@
 # ESWC 2026 Submission 13
 
-This is the repository containing all relevant source-code, results
+This is the repository containing all relevant code, data, results
 and additional tables and figures for the paper "Ontology Population
 Using LLMs: Which Factors Matter?".
 
