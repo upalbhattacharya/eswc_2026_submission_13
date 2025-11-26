@@ -9,7 +9,7 @@ An outline of the repository is given below:
 - Additional Tables and Figures for results of all experimentation 
   can be found in [here](tables_and_figures.pdf).
 - The data including the ontology files along with the zero-shot
-  and few-shot datasets can be found in the `[data](data/README.md)` directory.
+  and few-shot datasets can be found in the [data](data/README.md) directory.
 - All relevant source code for pre-processing data, running experiments
   on various LLMs and calculating metrics can be found in the 
   [src/eswc\_2026\_submission\_13](src/eswc_2026_submission_13/README.md)
