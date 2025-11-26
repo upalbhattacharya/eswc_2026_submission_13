@@ -5,8 +5,8 @@ can be found here. The directory structure is given below:
 
 ```bash
 ├── ontology\_name
-│   ├── OWL/RDF file 
-│   ├── data
+│   ├── OWL/RDF file : contains the ontology
+│   ├── data : contains data for each n-shot experiment
 │   │   ├── 0_shot
 │   │   ├── 10_shot
 │   │   ├── 1_shot
