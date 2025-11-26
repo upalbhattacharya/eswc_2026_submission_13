@@ -13,4 +13,4 @@ An outline of the repository is given below:
 - All relevant source code for pre-processing data, running experiments
   on various LLMs and calculating metrics can be found in the 
   [src/eswc\_2026\_submission\_13](src/eswc_2026_submission_13/README.md)
-  directory.
+  directory and the [notebooks](notebooks/README.md) directory.
