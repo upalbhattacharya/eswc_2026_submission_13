@@ -3,7 +3,7 @@
 The relevant data (ontology files and datasets) for all concerned experiments
 can be found here. The directory structure is given below:
 
-```bash
+```
 ├── Ontology name
 │   ├── OWL/RDF file : contains the ontology
 │   ├── data : contains data for each n-shot experiment
@@ -22,4 +22,4 @@ can be found here. The directory structure is given below:
 │   │   ├── 9_shot
 │   │   └── 10_shot
 │   └── embeddings : polars.DataFrame with OpenAI embeddings
-    ```bash 
+```
