@@ -16,3 +16,5 @@ An outline of the repository is given below:
   directory and the [notebooks](notebooks/) directory.
 - The various settings for experiments with different factors can be found
   in the [run\_args](run_args/) directory.
+- The generated results can be found in the [results](results/)
+  directory.
