@@ -4,7 +4,7 @@ The relevant data (ontology files and datasets) for all concerned experiments
 can be found here. The directory structure is given below:
 
 ```bash
-├── ontology\_name
+├── Ontology name
 │   ├── OWL/RDF file : contains the ontology
 │   ├── data : contains data for each n-shot experiment
 │   │   ├── 0_shot
