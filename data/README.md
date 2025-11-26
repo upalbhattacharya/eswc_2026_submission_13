@@ -21,5 +21,5 @@ can be found here. The directory structure is given below:
 │   │   ├── 8_shot
 │   │   ├── 9_shot
 │   │   └── 10_shot
-│   └── embeddings
+│   └── embeddings : polars.DataFrame with OpenAI embeddings
     ```bash 
