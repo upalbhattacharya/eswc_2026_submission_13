@@ -8,9 +8,10 @@ can be found here. The directory structure is given below:
 │   ├── OWL/RDF file : contains the ontology
 │   ├── data : contains data for each n-shot experiment
 │   │   ├── 0_shot
-│   │   │├
-│   │   ├── 10_shot
+│   │   │   ├──dataset.json : `polars.DataFrame` with input data
 │   │   ├── 1_shot
+│   │   │   ├──dataset.json : `polars.DataFrame` with input data
+│   │   │   └──exmples.json
 │   │   ├── 2_shot
 │   │   ├── 3_shot
 │   │   ├── 4_shot
@@ -18,6 +19,7 @@ can be found here. The directory structure is given below:
 │   │   ├── 6_shot
 │   │   ├── 7_shot
 │   │   ├── 8_shot
-│   │   └── 9_shot
+│   │   ├── 9_shot
+│   │   └── 10_shot
 │   └── embeddings
     ```bash 
