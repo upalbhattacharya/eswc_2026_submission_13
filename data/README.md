@@ -11,7 +11,7 @@ can be found here. The directory structure is given below:
 │   │   │   ├──dataset.json : polars.DataFrame with input data
 │   │   ├── 1_shot
 │   │   │   ├──dataset.json : polars.DataFrame with input data
-│   │   │   └──exmples.json
+│   │   │   └──exmples.json : polars.DataFrame with few-shot example(s)
 │   │   ├── 2_shot
 │   │   ├── 3_shot
 │   │   ├── 4_shot
