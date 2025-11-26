@@ -7,7 +7,7 @@ and additional tables and figures for ESWC 2026 Submission 13:
 An outline of the repository is given below:
 - The paper PDF can be found [here](paper.pdf).
 - Additional Tables and Figures for results of all experimentation 
-  can be found in [here](tables_and_figures.pdf).
+  can be found [here](tables_and_figures.pdf).
 - The data including the ontology files along with the zero-shot
   and few-shot datasets can be found in the [data](data/) directory.
 - All relevant source code for pre-processing data, running experiments
