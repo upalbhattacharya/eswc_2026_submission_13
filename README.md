@@ -4,6 +4,7 @@ This is the repository containing all relevant code, data, results
 and additional tables and figures for ESWC 2026 Submission 13: 
 **Ontology Population Using LLMs: Which Factors Matter?**
 
+An outline of the repository is given below:
 - The paper can be found in [here](paper.pdf).
 - Additional Tables and Figures for results of all experimentation 
   can be found in [here](tables_and_figures.pdf).
